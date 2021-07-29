@@ -60,8 +60,7 @@ You have a database called `health_db.sqlite3` which contains three tables:
 
     - "patient_id": integer
     - "name": text
-    - "gender": text ('M'/'F')
-    
+   
 
 2. `patient_ailment`
 
@@ -79,7 +78,7 @@ Your task is to perform the following queries on the database:
 
 1. `query_total_n_patients` - How many total patients are there?
 2. `query_jaundice_symptoms` - What are the symptoms of Jaundice?
-3. `query_difference_male_female` - How many more males are there than females? (Only using SQL)
+3. `query_difference_diabetes_arthritis` - How many more patients have Diabetes than have Arthritis? (Only using SQL)
 4. `query_most_frequent_ailment` - What is the most frequent patient ailment in the database and its count?
    
 For the final query you will need to use a join (either implicit or explicit):
