@@ -134,3 +134,4 @@ sql_generate.py
 sql.py
 health.py
 health_records.sqlite3
+.idea/

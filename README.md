@@ -21,7 +21,7 @@ Next, create a table called `patients` with the following columns and datatypes:
 3. `patient_age`: integer
 
 
-Now, use the ledger given to you by the receptionist to add the patient's records into the database.
+Now, use the ledger given to you by the receptionist to add the patient records into the database.
 
 ```
  ─────────────────────────────────────────────────
